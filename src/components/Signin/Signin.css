@@ -1,0 +1,96 @@
+ .main{
+    display: flex;
+    
+ 
+}
+.left{
+    display: flex;
+    flex-direction:column;
+    height:730px;
+    width:50%;
+    background-color: rgb(89, 185, 128);
+   border-right: 1px solid black;
+    
+}
+ /* .right{
+    display: flex;
+    flex-direction:column;
+    } */
+.image{
+    margin-left:180px;
+    margin-top: 40px;
+    width:400px;
+    height:400px;
+}
+.desc{
+    margin-left:260px;
+    color: white;
+}
+.h2{
+    margin-left:240px;
+    margin-bottom: 0px;
+    color: rgb(75, 23, 247);
+}
+.h3{
+    margin-left:250px;
+    margin-top: 10px;
+    color:rgb(75, 23, 247);
+}
+.signin{
+    margin-left:335px;
+    margin-top: 200px;
+    color:rgb(88, 39, 249)
+}
+.l1{
+margin-left: 320px;
+font-weight: bold;
+margin-top: 70px;
+}
+.l2{
+    margin-left: 320px;
+    font-weight: bold;
+    margin-top: 70px;
+    
+}
+#name{
+    margin-left: 320px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+#password{
+    margin-left: 320px;
+    margin-top: 20px;
+}
+.button{
+    margin-left: 330px;
+    font-weight: bold;
+    margin-top: 10px;
+    border-radius: 20px;
+    height: 32px;
+    width: 150px;
+    color:white;
+    background-color: rgb(78, 72, 71);
+}
+.pass{
+    margin-left:40px;
+    font-size: 12px;
+}
+.or{
+    margin-left:300px;
+    margin-bottom: 0px;
+}
+.go{
+    margin-left:20px;
+    margin-top: 27px;
+   
+}
+.img{
+    height:20px;
+    width:20px;
+    margin-top: 30px;
+    margin-left: 330px;
+   
+}
+.footer{
+    display: flex;
+}

@@ -1,0 +1,66 @@
+.middle{
+    display: flex;
+}
+.foot{
+    display: flex;
+    flex-direction: column;
+    background-color: aquamarine;
+    
+}
+.img1{
+    height:40px;
+    width:40px;
+    margin-top: 1px;
+}
+.img2{
+    height:45px;
+    width:60px;
+    margin-left: 8px;
+    
+}
+.img3{
+    height:40px;
+    width:40px;
+    margin-top: 2px;
+    margin-left: 8px;
+}
+.img4{
+    height:49px;
+    width:50px;
+    margin-left: 8px;
+    
+}
+.img5{
+    height:42px;
+    width:43px;
+    margin-left: 8px;
+    margin-top: 2px;
+}
+.pics{
+    margin-left: 590px;
+    margin-top: 70px;
+    display: flex;
+}
+.middle{
+    margin-left:520px;
+}
+.cont{
+    margin-left:640px;
+}
+.f2{
+margin-left:20px;
+}
+.f3{
+    margin-left:20px;
+    }
+
+.f4{
+    margin-left:20px;
+    }
+.f5{
+    margin-left:20px;
+    }
+
+        
+
+

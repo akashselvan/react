@@ -1,0 +1,22 @@
+.navbar{
+    display: flex;
+    background-color:rgb(225, 142, 164);
+    
+}
+.rightname{
+    display: flex;
+    margin-left:1000px;
+}
+.logout{
+    margin-top:28px;
+    margin-left: 30px;
+    background-color: rgb(54, 64, 87);
+    color: white;
+}
+.contact{
+    margin-left: 30px;
+    margin-top: 25px;
+}
+.about{
+    margin-top: 25px;
+}
